@@ -77,11 +77,10 @@ Install project baru langsung dari antarmuka web ke folder tujuan:
 ## 🚀 Cara Instalasi & Penggunaan
 
 ### Langkah 1: Penempatan File
-Letakkan file `index.php` ke direktori web root Laragon Anda:
+Timpa file `index.php` ke direktori web root Laragon Anda:
 ```text
 C:\laragon\www\
 ├── index.php
-├── prd.md
 └── code\
 ```
 
